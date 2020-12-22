@@ -5,4 +5,4 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: 
 ! 
-archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Mineta Minoru/))
+archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Mineta Minoru|mineta/))
