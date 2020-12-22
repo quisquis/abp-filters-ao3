@@ -1,0 +1,8 @@
+[Adblock Plus 3.1]
+! Version:
+! Title: AO3 Tag Blocker List
+! Last modified: 12/22/20
+! Expires: 4 days (update frequency)
+! Homepage: 
+! 
+archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Mineta Minoru/))
