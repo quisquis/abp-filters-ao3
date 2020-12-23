@@ -1,2 +1,3 @@
 # abp-filters-ao3
-A tag list to block on Archive of Our Own for Adblock Plus
+A filter list to block works by tag on Archive of Our Own. 
+For Adblock Plus / uBlock Origin / etc.
