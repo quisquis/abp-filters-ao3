@@ -1,6 +1,6 @@
 [Adblock Plus 3.1]
 ! Version:
-! Title: AO3 Tag Blocker List
+! Title: AO3 Tag Blocker - Test
 ! Last modified: 12/22/20
 ! Expires: 4 days (update frequency)
 ! Homepage: 
