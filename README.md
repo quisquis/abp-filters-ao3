@@ -3,9 +3,9 @@ Block tags on Archive of Our Own using an ad blocker like Adblock Plus / uBlock 
 
 ## References
 * [How to create your own adblock list — For dummies](https://sproutsluckycorner.wordpress.com/2018/07/21/how-to-create-your-own-adblock-list-for-dummies/)
-  * make a filter list on GitHub
+  * filter lists on GitHub
 * [How to create your own personal filter list](https://help.getadblock.com/support/solutions/articles/6000165012-how-to-create-your-own-personal-filter-list)
-  * make a filter list on Google Drive
+  * filter lists on Google Drive
 * [Adblock Plus filters explained](https://adblockplus.org/filter-cheatsheet)
   * filter rules cheatsheet
 * [How to write filters](https://help.eyeo.com/adblockplus/how-to-write-filters)
