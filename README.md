@@ -1,6 +1,15 @@
 # abp-filters-ao3
 Block tags on Archive of Our Own using an ad blocker (like Adblock Plus / uBlock Origin / etc.)
 
+## Filters
+**Block a work if a tag contains a keyword:**
+
+archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/First Tag|Second Tag|Third Tag/))
+
+**Block a work if a tag has an exact match:**
+
+archiveofourown.org#?#li.group:-abp-has(a[href*="/First%20Tag/" i], a[href*="/Second%20Tag/" i], a[href*="/Third%20Tag/" i])
+
 ## References
 * [How to create your own adblock list — For dummies](https://sproutsluckycorner.wordpress.com/2018/07/21/how-to-create-your-own-adblock-list-for-dummies/)
   * filter lists on GitHub
