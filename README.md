@@ -13,5 +13,7 @@ Block tags on Archive of Our Own using an ad blocker (like Adblock Plus / uBlock
 ### Other Sources
 * [Hide tumblr posts (using Adblock Plus)](https://admung.tumblr.com/post/83797567505/hiding-on-tumblr)
   * the inspiration for this
+* [CSS Tutorial](https://www.w3schools.com/css/)
+  * knowing CSS is helpful if you want to know how the filters work
 * [AO3's Unofficial Browser Tools FAQ](https://archiveofourown.org/faq/unofficial-browser-tools?language_id=en#modifysearch)
   * other options for tag blocking
