@@ -12,9 +12,9 @@ archiveofourown.org#?#li.group:-abp-has(a[href*="/First%20Tag/" i], a[href*="/Se
 
 ## References
 * [How to create your own adblock list — For dummies](https://sproutsluckycorner.wordpress.com/2018/07/21/how-to-create-your-own-adblock-list-for-dummies/)
-  * filter lists on GitHub
+  * store filter lists on GitHub
 * [How to create your own personal filter list](https://help.getadblock.com/support/solutions/articles/6000165012-how-to-create-your-own-personal-filter-list)
-  * filter lists on Google Drive
+  * store filter lists on Dropbox/Google Drive/OneDrive
 * [Adblock Plus filters explained](https://adblockplus.org/filter-cheatsheet)
   * filter rules cheatsheet
 * [How to write filters](https://help.eyeo.com/adblockplus/how-to-write-filters)
