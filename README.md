@@ -10,3 +10,8 @@ Block tags on Archive of Our Own using an ad blocker (like Adblock Plus / uBlock
   * filter rules cheatsheet
 * [How to write filters](https://help.eyeo.com/adblockplus/how-to-write-filters)
   * another filter rules guide
+### Other Sources
+* [Hide tumblr posts (using Adblock Plus)](https://admung.tumblr.com/post/83797567505/hiding-on-tumblr)
+  * the inspiration for this
+* [AO3's Unofficial Browser Tools FAQ](https://archiveofourown.org/faq/unofficial-browser-tools?language_id=en#modifysearch)
+  * other options for tag blocking
