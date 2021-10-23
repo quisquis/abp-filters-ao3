@@ -3,7 +3,7 @@
 ! Title: AO3 Tag Blocker - No Adult Content
 ! Last modified: 10/22/21
 ! Expires: 4 days (update frequency)
-! Homepage: https://raw.githubusercontent.com/quisquis/abp-filters-ao3/main/adult-content.txt?token=ASHU3TXXZAJUXYXRSEPYW6LBONSTS
+! Homepage: https://raw.githubusercontent.com/quisquis/abp-filters-ao3/main/adult-content.txt
 ! 
 ! block work if tags contain keywords
 archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Anal Fingering|Anal Sex|Awkward Sexual Situations|Bad Sex|Barebacking|Blow Jobs|Blowjobs|blow-jobs|Butt Plugs|Casual Sex|Clothed Sex|Cock Ring|Cock Warming|Cunnilingus|Desk Sex|Double Penetration|Drunk Sex|Emotional Sex|Explicit Sexual Content|Fingerfucking|Flying Sex|Fuck Or Die|Frottage|Gentle Sex|Good Sex|Hand Jobs|Intercrural Sex|Knotting|Loss of Virginity|Makeup Sex|Masturbation|Mild Sexual Content|Multiple Orgasms|not especially explicit sex|Object Penetration|Office Sex|Oral Sex|Orgasm Delay/Denial|Outdoor Sex|Phone Sex|Plot What Plot/Porn Without Plot|Porn with Feelings|Porn With Plot|Resolved Sexual Tension|Revenge Sex|Rimming|Rough Sex|rough sex|Self-Lubrication|Semi-Public Sex|Sex Magic|Sex Rituals|Sex Toys|Sexual Fantasy|Sex While Using Polyjuice Potion|Tentacle Sex|tentacle sex|Unsafe Sex|Vaginal Fingering|Vaginal Sex|Werewolf Sex/))
