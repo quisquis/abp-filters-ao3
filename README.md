@@ -1,5 +1,5 @@
 # abp-filters-ao3
-Block tags on Archive of Our Own using an ad blocker like Adblock Plus / uBlock Origin / etc.
+Block tags on Archive of Our Own using an ad blocker (like Adblock Plus / uBlock Origin / etc.)
 
 ## References
 * [How to create your own adblock list — For dummies](https://sproutsluckycorner.wordpress.com/2018/07/21/how-to-create-your-own-adblock-list-for-dummies/)
