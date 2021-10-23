@@ -3,7 +3,7 @@
 ! Title: AO3 Tag Blocker - No Explicit-Rated Fics
 ! Last modified: 10/22/21
 ! Expires: 4 days (update frequency)
-! Homepage: https://raw.githubusercontent.com/quisquis/abp-filters-ao3/main/explicit-rating?token=ASHU3TSDYRZACDEBDCVUE3LBONQQ6
+! Homepage: https://raw.githubusercontent.com/quisquis/abp-filters-ao3/main/explicit-rating.txt
 ! 
 ! block works rated explicit
 archiveofourown.org#?#li.group:-abp-has(span.rating-explicit)
