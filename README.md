@@ -4,11 +4,11 @@ Block tags on Archive of Our Own using an ad blocker (like Adblock Plus / uBlock
 ## Filters
 **Block a work if a tag contains a keyword:**
 
-archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/First Tag|Second Tag|Third Tag/))
+`archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/First Tag|Second Tag|Third Tag/))`
 
 **Block a work if a tag has an exact match:**
 
-archiveofourown.org#?#li.group:-abp-has(a[href*="/First%20Tag/" i], a[href*="/Second%20Tag/" i], a[href*="/Third%20Tag/" i])
+`archiveofourown.org#?#li.group:-abp-has(a[href*="/First%20Tag/" i], a[href*="/Second%20Tag/" i], a[href*="/Third%20Tag/" i])`
 
 
 
