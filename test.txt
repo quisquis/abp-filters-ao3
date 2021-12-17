@@ -5,4 +5,12 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: 
 ! 
-archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Mineta Minoru|mineta/))
+! block by keyword:
+archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Mineta|mineta/))
+! this will get any tag with 'mineta' in it
+! it's more flexible, which means it will also get tags like 'Alternate Universe - Mineta Minoru Doesn't Exist' and 'Shinsou Hitoshi Replaces Mineta Minoru'
+
+! block by exact tag:
+archiveofourown.org#?#li.group:-abp-has(a[href*="/Mineta%20Minoru/" i])
+! this will target the exact tag 'Mineta Minoru'
+! it's more strict, which means it will miss less common variations of the tag like 'Minoru Mineta'
