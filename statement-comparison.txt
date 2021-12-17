@@ -10,7 +10,6 @@
 ! (so it will also target tags like 'No Angst')
 archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Angst|angst/))
 
-
 ! block by exact tag
 ! (this will target the exact tag 'Angst' or 'angst')
 ! (it's more strict, which means it will miss tags like 'Heavy Angst')
