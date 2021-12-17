@@ -1,6 +1,6 @@
 [Adblock Plus 3.1]
 ! Version:
-! Title: AO3 Tag Blocker - Comparison
+! Title: AO3 Tag Blocker - Statement Comparison
 ! Last modified: 12/16/21
 ! Expires: 4 days (update frequency)
 ! Homepage: https://raw.githubusercontent.com/quisquis/abp-filters-ao3/main/statement-comparison.txt
