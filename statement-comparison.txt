@@ -1,16 +1,18 @@
 [Adblock Plus 3.1]
 ! Version:
-! Title: AO3 Tag Blocker - Test
-! Last modified: 12/22/20
+! Title: AO3 Tag Blocker - Comparison
+! Last modified: 12/16/21
 ! Expires: 4 days (update frequency)
 ! Homepage: 
 ! 
-! block by keyword:
-archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Mineta|mineta/))
-! this will get any tag with 'mineta' in it
-! it's more flexible, which means it will also get tags like 'Alternate Universe - Mineta Minoru Doesn't Exist' and 'Shinsou Hitoshi Replaces Mineta Minoru'
+! block by keyword
+! (this will get any tag with 'Angst' or 'angst' in it)
+! (so it will also target tags like 'No Angst')
+archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Angst|angst/))
 
-! block by exact tag:
-archiveofourown.org#?#li.group:-abp-has(a[href*="/Mineta%20Minoru/" i])
-! this will target the exact tag 'Mineta Minoru'
-! it's more strict, which means it will miss less common variations of the tag like 'Minoru Mineta'
+
+! block by exact tag
+! (this will target the exact tag 'Angst' or 'angst')
+! (it's more strict, which means it will miss tags 'Heavy Angst')
+archiveofourown.org#?#li.group:-abp-has(a[href*="/Angst/" i])
+
