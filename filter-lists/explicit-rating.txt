@@ -10,3 +10,5 @@
 
 archiveofourown.org#?#li.group:-abp-has(span.rating-explicit)
 
+! to block multiple ratings, just separate them with commas:
+! archiveofourown.org#?#li.group:-abp-has(span.rating-mature, span.rating-explicit)
