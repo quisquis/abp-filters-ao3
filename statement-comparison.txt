@@ -3,7 +3,7 @@
 ! Title: AO3 Tag Blocker - Comparison
 ! Last modified: 12/16/21
 ! Expires: 4 days (update frequency)
-! Homepage: 
+! Homepage: https://raw.githubusercontent.com/quisquis/abp-filters-ao3/main/statement-comparison.txt
 ! 
 ! block by keyword
 ! (this will get any tag with 'Angst' or 'angst' in it)
