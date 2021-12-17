@@ -1,0 +1,24 @@
+[Adblock Plus 3.1]
+! Version:
+! Title: AO3 Tag Blocker - Statement Templates
+! Last modified: 12/17/21
+! Expires: 4 days (update frequency)
+! Homepage: https://raw.githubusercontent.com/quisquis/abp-filters-ao3/main/statement-templates.txt
+! 
+! block by keyword
+archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Angst|angst|Hurt/No Comfort|Character 1/Character 2/))
+
+! block by exact tag
+archiveofourown.org#?#li.group:-abp-has(a[href*="/Angst/" i], a[href*="/Hurt*s*No%20Comfort/" i], a[href*="/Character%201*s*Character%202/" i])
+
+! block by rating
+archiveofourown.org#?#li.group:-abp-has(span.rating-mature, span.rating-explicit)
+
+! block by author
+archiveofourown.org#?#li.group:-abp-has(a[rel~="author"][href*="/BlockThisAuthor/"])
+
+! block comments by specific users
+archiveofourown.org#?#li.comment:-abp-has(a[href*="/BlockThisCommenter/"])
+
+! block comments with specific keywords
+archiveofourown.org#?#li.comment:-abp-has(blockquote:-abp-contains(/Block This Phrase/))
