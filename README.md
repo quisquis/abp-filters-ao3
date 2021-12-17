@@ -12,4 +12,4 @@ Block tags on Archive of Our Own using an ad blocker (like Adblock Plus / uBlock
 
 
 
-(Check out the [Wiki](https://github.com/quisquis/abp-filters-ao3/wiki) section for more details.)
+(Check out the [Wiki](https://github.com/quisquis/abp-filters-ao3/wiki/Block-tags-on-AO3-using-an-Ad-Blocker) section for more details.)
