@@ -6,10 +6,10 @@
 ! Homepage: https://raw.githubusercontent.com/quisquis/abp-filters-ao3/main/statement-templates.txt
 ! 
 ! block by keyword
-archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Angst|angst|Hurt/No Comfort|Character 1/Character 2/))
+archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Tag|tag|Relationship/Tag|Tag With Spaces/))
 
 ! block by exact tag
-archiveofourown.org#?#li.group:-abp-has(a[href*="/Angst/" i], a[href*="/Hurt*s*No%20Comfort/" i], a[href*="/Character%201*s*Character%202/" i])
+archiveofourown.org#?#li.group:-abp-has(a[href*="/Tag/" i], a[href*="/Relationship*s*Tag/" i], a[href*="/Tag%20With%20Spaces/" i])
 
 ! block by rating
 archiveofourown.org#?#li.group:-abp-has(span.rating-mature, span.rating-explicit)
