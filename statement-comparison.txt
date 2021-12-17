@@ -16,7 +16,7 @@ archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Angst|angst/))
 ! (it's more strict, which means it will miss tags like 'Heavy Angst')
 archiveofourown.org#?#li.group:-abp-has(a[href*="/Angst/" i])
 
-! let's block 'Heavy Angst' too
+! block multiple exact tags
 ! (each tag goes in its own blurb like this: a[href*="/Tag/" i])
 ! (spaces need to be replaced with %20)
 archiveofourown.org#?#li.group:-abp-has(a[href*="/Angst/" i], a[href*="/Heavy%20Angst/" i])
