@@ -5,10 +5,10 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: https://raw.githubusercontent.com/quisquis/abp-filters-ao3/main/explicit-rating.txt
 ! 
-! block works rated explicit
-! all options: span.rating-general-audience, span.rating-teen, span.rating-mature, span.rating-explicit, span.rating-notrated
+! block works rated explicit:
 
 archiveofourown.org#?#li.group:-abp-has(span.rating-explicit)
 
+! all options: span.rating-general-audience, span.rating-teen, span.rating-mature, span.rating-explicit, span.rating-notrated
 ! to block multiple ratings, just separate them with commas:
 ! archiveofourown.org#?#li.group:-abp-has(span.rating-mature, span.rating-explicit)
