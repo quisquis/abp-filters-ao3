@@ -5,20 +5,21 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: https://raw.githubusercontent.com/quisquis/abp-filters-ao3/main/statement-templates.txt
 ! 
-! block by keyword
+! block work by keyword
 archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Tag|tag|Relationship/Tag|Tag With Spaces/))
 
-! block by exact tag
+! block work by exact tag
 archiveofourown.org#?#li.group:-abp-has(a[href*="/Tag/" i], a[href*="/Relationship*s*Tag/" i], a[href*="/Tag%20With%20Spaces/" i])
 
-! block by rating
+! block work by rating
 archiveofourown.org#?#li.group:-abp-has(span.rating-mature, span.rating-explicit)
 
-! block by author
+! block work by author
 archiveofourown.org#?#li.group:-abp-has(a[rel~="author"][href*="/BlockThisAuthor/"])
 
 ! block comments by specific users
 archiveofourown.org#?#li.comment:-abp-has(a[href*="/BlockThisCommenter/"])
+archiveofourown.org#?#li.comment:-abp-has(h4:-abp-contains(/BlockThisGuest/))
 
 ! block comments with specific keywords
-archiveofourown.org#?#li.comment:-abp-has(blockquote:-abp-contains(/Block This Phrase/))
+archiveofourown.org#?#li.comment:-abp-has(blockquote:-abp-contains(/Block this phrase/))
