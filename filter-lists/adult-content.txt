@@ -10,7 +10,7 @@
 archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Anal Fingering|Anal Sex|Awkward Sexual Situations|Bad Sex|Barebacking|Blow Jobs|Blowjobs|blow-jobs|Butt Plugs|Casual Sex|Clothed Sex|Cock Ring|Cock Warming|Cunnilingus|Desk Sex|Double Penetration|Drunk Sex|Emotional Sex|Explicit Sexual Content|Fingerfucking|Flying Sex|Fuck Or Die|Frottage|Gentle Sex|Good Sex|Hand Jobs|Intercrural Sex|Knotting|Loss of Virginity|Makeup Sex|Masturbation|Mild Sexual Content|Multiple Orgasms|not especially explicit sex|Object Penetration|Office Sex|Oral Sex|Orgasm Delay/Denial|Outdoor Sex|Phone Sex|Plot What Plot/Porn Without Plot|Porn with Feelings|Porn With Plot|Resolved Sexual Tension|Revenge Sex|Rimming|Rough Sex|rough sex|Self-Lubrication|Semi-Public Sex|Sex Magic|Sex Rituals|Sex Toys|Sexual Fantasy|Sex While Using Polyjuice Potion|Tentacle Sex|tentacle sex|Unsafe Sex|Vaginal Fingering|Vaginal Sex|Werewolf Sex/))
 
 
-! block work if tags match keywords
+! block work if an exact tag match
 
 archiveofourown.org#?#li.group:-abp-has(a[href*="/Consensual%20Underage%20Sex/"], a[href*="/Explicit%20Sexual%20Content/" i], a[href*="/Gay%20Sex/" i], a[href*="/Lots%20and%20lots%20of%20sex/" i], a[href*="/Lots%20of%20Sex/" i], a[href*="/Porn/" i], a[href*="/Public%20Sex/" i], a[href*="/Sex/" i], a[href*="/Smut/" i], a[href*="/Underage%20Sex/" i], a[href*="/sucking%20cock/" i])
 
