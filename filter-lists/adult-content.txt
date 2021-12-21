@@ -1,4 +1,4 @@
-[Adblock Plus 3.1]
+[Adblock Plus 2.0]
 ! Version:
 ! Title: AO3 Tag Blocker - No Adult Content
 ! Last modified: 12/17/21
