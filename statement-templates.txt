@@ -1,11 +1,11 @@
 [Adblock Plus 3.1]
 ! Version:
 ! Title: AO3 Tag Blocker - Statement Templates
-! Last modified: 12/17/21
+! Last modified: 12/20/21
 ! Expires: 4 days (update frequency)
 ! Homepage: https://raw.githubusercontent.com/quisquis/abp-filters-ao3/main/statement-templates.txt
 ! 
-! block work by keyword
+! block work by tag keyword
 archiveofourown.org#?#li.group:-abp-has(li:-abp-contains(/Tag|tag|Relationship/Tag|Tag With Spaces/))
 
 ! block work by exact tag
@@ -16,6 +16,12 @@ archiveofourown.org#?#li.group:-abp-has(span.rating-mature, span.rating-explicit
 
 ! block work by author
 archiveofourown.org#?#li.group:-abp-has(a[rel~="author"][href*="/BlockThisAuthor/"])
+
+! block work by title
+archiveofourown.org#?#li.group:-abp-has(a:-abp-contains(/Block This Story/))
+
+! block work by id number
+archiveofourown.org#?#li.group:-abp-has(a[href*="55555555"])
 
 ! block comments by specific users
 archiveofourown.org#?#li.comment:-abp-has(a[href*="/BlockThisCommenter/"])
