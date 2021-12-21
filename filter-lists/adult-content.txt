@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version:
 ! Title: AO3 Tag Blocker - No Adult Content
-! Last modified: 12/17/21
+! Last modified: 12/21/21
 ! Expires: 4 days (update frequency)
 ! Homepage: https://raw.githubusercontent.com/quisquis/abp-filters-ao3/main/filter-lists/adult-content.txt
 ! 
